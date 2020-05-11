@@ -1,0 +1,152 @@
+[
+  { "id": "All", "group": "(All provisions)", "title": "Peace Agreements: Key Facts", "facts": [
+		"Peace negotiations are one of the most common ways of ending conflict",
+		"The 'handshake moment' is only one moment in a longer peace process",
+		"Processes seldom unfold in a straighforward line from violence to peace: there are talks, breadkowns and restarts",
+		"Agreements can be to establish ceasefire, to get into talks, to how to resolve the conflict or to implement previous agreements"
+  ] },
+  { "id": "Gr", "group": "Groups", "title": "Facts about Groups Provisions", "facts": [
+		"Groups Provisions address specific poblacional groups like children, elderly persons, refugees, etc."
+  ], "issues": [
+      { "label": "Children/youth", "value": "GCh" },
+      { "label": "Disabled persons", "value": "GDis" },
+      { "label": "Elderly/age", "value": "GAge" },
+      { "label": "Migrant workers", "value": "GMig" },
+      { "label": "Racial/ethnic/national group", "value": "GRa" },
+      { "label": "Religious groups", "value": "GRe" },
+      { "label": "Indigenous people", "value": "GInd" },
+      { "label": "Other groups", "value": "GOth" },
+      { "label": "Refugees/displaced persons", "value": "GRef" },
+      { "label": "Social class", "value": "GSoc" }
+  ]},
+  { "id": "Ge", "group": "Gender", "title": "Facts about Gender Provisions", "facts": [
+		"These category referes to provision related to gender and sexual orientation"
+  ], "issues": [
+      { "label": "Women, girls and gender", "value": "GeWom" },
+      { "label": "Men and boys", "value": "GeMe" },
+      { "label": "LGBTI positive references", "value": "GeLgbtiPos" },
+	  { "label": "LGBTI negative references", "value": "GeLgbtiNeg" },
+      { "label": "Family", "value": "GeFa" }
+  ]},
+  { "id": "StDef", "group": "State definition", "title": "State definition", "facts": [
+		"State definition"
+  ], "issues": [
+      { "label": "Nature of State (general)", "value": "StGen" },
+      { "label": "State Configuration", "value": "StCon" },
+	  { "label": "Self determination", "value": "StSd" },
+	  { "label": "Referendum", "value": "StRef" },
+	  { "label": "State Symbols", "value": "StSym" },
+      { "label": "Independence/secession", "value": "StInd" },
+      { "label": "Accession/unification", "value": "StUni" },
+      { "label": "Border delimitation", "value": "StBor" },
+      { "label": "Cross-border provision", "value": "StXbor" }
+  ]},
+  { "id": "Gov", "group": "Governance", "title": "Governance", "facts": [
+		"Governance"
+  ], "issues": [
+      { "label": "Political institutions (new or reformed)", "value": "Pol" },
+      { "label": "Constitutional affirmation/renewal", "value": "ConRen" },
+      { "label": "Constitutional reform/making", "value": "Cons" },
+      { "label": "Elections", "value": "Ele" },
+      { "label": "Electoral commission", "value": "ElecComm" },
+      { "label": "Political parties reform", "value": "PolPar" },
+      { "label": "Civil society", "value": "Civso" },
+      { "label": "Traditional/religious leaders", "value": "Tral" },
+      { "label": "Public administration", "value": "Pubad" }
+  ]},
+  { "id": "Ps", "group": "Power sharing", "title": "Power sharing", "facts": [
+		"Power sharing"
+  ], "issues": [
+      { "label": "Political power sharing", "value": "Polps" },
+      { "label": "Territorial power sharing", "value": "Terps" },
+      { "label": "Economic power sharing", "value": "Eps" },
+      { "label": "Military power sharing", "value": "Mps" }
+  ]},
+  { "id": "Hr", "group": "Human rights and equality", "title": "Human rights and equality", "facts": [
+		"Human rights and equality"
+  ], "issues": [
+      { "label": "Human rights/Rule of Law", "value": "HrGen" },
+      { "label": "Equality", "value": "EqGen" },
+      { "label": "Democracy", "value": "HrDem" },
+      { "label": "Protection measures", "value": "Prot" },
+      { "label": "Human rights framework", "value": "HrFra" },
+      { "label": "Civil and political rights", "value": "HrCp" },
+      { "label": "Socio-economic rights", "value": "HrSec" },
+      { "label": "National Human Rights Institution", "value": "HrNi" },
+      { "label": "Regional or international human rights institutions", "value": "HrIi" },
+      { "label": "Mobility/access", "value": "HrMob" },
+      { "label": "Detention procedures", "value": "HrDet" },
+      { "label": "Media and communication", "value": "Med" },
+      { "label": "Citizenship", "value": "HrCit" }
+  ]},
+  { "id": "Js", "group": "Justice sector reform", "title": "Justice sector reform", "facts": [
+		"Justice sector reform"
+  ], "issues": [
+      { "label": "Criminal justice and emergency law", "value": "JusCr" },
+      { "label": "State of emergency provisions", "value": "JusEm" },
+      { "label": "Judiciary and courts", "value": "JusJu" },
+      { "label": "Prisons and detention", "value": "JusPri" },
+      { "label": "Traditional Laws", "value": "JusTra" }
+  ]},
+  { "id": "Se", "group": "Socio-economic reconstruction", "title": "Socio-economic reconstruction", "facts": [
+		"Socio-economic reconstruction"
+  ], "issues": [
+      { "label": "Development or socio-economic reconstruction", "value": "Dev" },
+      { "label": "National economic plan", "value": "NEC" },
+      { "label": "Natural resources", "value": "NatRes" },
+      { "label": "International funds", "value": "IntFu" },
+      { "label": "Business", "value": "Bus" },
+      { "label": "Taxation", "value": "Tax" },
+      { "label": "Banks", "value": "Ban" }
+  ]},
+  { "id": "La", "group": "Land, property and environment", "title": "Land, property and environment", "facts": [
+		"Land, property and environment"
+  ], "issues": [
+      { "label": "Land reform/rights", "value": "LaRef" },
+      { "label": "Pastoralist/nomadism rights", "value": "LaNom" },
+      { "label": "Cultural heritage", "value": "LaCH" },
+      { "label": "Environment", "value": "LaEn" },
+      { "label": "Water or riparian rights or access", "value": "Wat" }
+  ]},
+  { "id": "Ssr", "group": "Security Sector Reform and DDR", "title": "Security Sector Reform: Key Facts", "facts": [
+		"Security sector reform (SSR) aims to restore the State monopoly of legitimate violence via professional and accountable security forces",
+		"Disarmment, demobilization and reintegration (DDR) aims to neutralice the menace for peace that uncontrolled groups of unemployed ex-combatents pose",
+		"There is a link between DDR and SSR? There is no evidence. Only one third of the PA-X agreements mention both SSR and ceasefire/DDR measures"
+  ], "issues": [
+      { "label": "Security Guarantees", "value": "SsrGua" },
+      { "label": "Ceasefire", "value": "Ce" },
+      { "label": "Police", "value": "SsrPol" },
+      { "label": "Armed forces", "value": "SsrArm" },
+      { "label": "DDR", "value": "SsrDdr" },
+      { "label": "Intelligence services", "value": "SsrInt" },
+      { "label": "Parastatal/rebel and opposition group forces", "value": "SsrPsf" },
+      { "label": "Withdrawal of foreign forces", "value": "SsrFf" },
+      { "label": "Corruption", "value": "Cor" },
+      { "label": "Crime/organised crime", "value": "SsrCrOcr" },
+      { "label": "Drugs", "value": "SsrDrugs" },
+      { "label": "Terrorism", "value": "Terr" }
+  ]},
+  { "id": "Tj", "group": "Transitional justice", "title": "Transitional justice", "facts": [
+		"Transitional justice"
+  ], "issues": [
+      { "label": "Transitional justice general", "value": "TjGen" },
+      { "label": "Amnesty/pardon", "value": "TjAm" },
+      { "label": "Courts", "value": "TjCou" },
+      { "label": "Mechanism", "value": "TjMech" },
+      { "label": "Prisoner release", "value": "TjPrire" },
+      { "label": "Vetting", "value": "TjVet" },
+      { "label": "Victims", "value": "TjVic" },
+      { "label": "Missing persons", "value": "TjMis" },
+      { "label": "Reparations", "value": "TjRep" },
+      { "label": "Reconciliation", "value": "TjNR" }
+  ]},
+  { "id": "Imp", "group": "Implementation", "title": "Implementation", "facts": [
+		"Implementation"
+  ], "issues": [
+      { "label": "UN signatory", "value": "ImUN" },
+      { "label": "Other international signatory", "value": "ImOth" },
+      { "label": "Referendum for agreement", "value": "ImRef" },
+      { "label": "International mission/force/similar", "value": "ImPK" },
+      { "label": "Enforcement mechanism", "value": "ImE" }
+  ]}
+]

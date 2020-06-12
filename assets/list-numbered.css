@@ -1,0 +1,23 @@
+.list-numbered {
+  list-style: none;
+  margin-left: 1em;
+  counter-reset: line;
+}
+
+.list-numbered > li {
+  position: relative;
+}
+
+.list-numbered > li:before {
+	position: absolute;
+	left: -1.5em;
+	display: inline-block;
+    width: 20px;
+	height: 20px;
+    background-color: #B53C2C;
+	border-radius: 50%;
+	color: #fff;
+	text-align:center;
+	counter-increment: line;
+	content: counter(line);
+}
